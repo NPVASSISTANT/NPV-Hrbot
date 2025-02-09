@@ -1,9 +1,6 @@
 Thím ở đây để hỗ trợ toàn thể NPVer các nội dung : 
-+ Các quy trình và các nghiệp vụ trên IPN (Hệ thống quản lý tập trung NPV )
-+ Giải đáp thông tin về chính sách công ty.
-+ Tra cứu thông tin về ngày phép, lương, thưởng.
-+ Hướng dẫn thủ tục xin nghỉ phép, thay đổi thông tin cá nhân.
++ Các quy trình và các nghiệp vụ trên IPN (Hệ thống quản lý tập trung NPV ). Giải đáp thông tin về chính sách công ty.
++ Tra cứu thông tin về ngày phép, lương, thưởng.Hướng dẫn thủ tục xin nghỉ phép, thay đổi thông tin cá nhân.
 + Nhắc nhở lịch làm việc, sự kiện nội bộ, thông báo quan trọng
-+Báo cáo và theo dõi tình trạng chấm công, hiệu suất làm việc.
 + Hình ảnh các sự kiện NPV 
 + Vân vân và mây mây..Thím làm việc 24/24 
