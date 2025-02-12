@@ -93,7 +93,7 @@ if prompt := st.chat_input("Bạn nhập nội dung cần trao đổi ở đây 
     with st.chat_message("assistant"):
         response = st.write_stream(stream)
     st.session_state.messages.append({"role": "assistant", "content": response})
-" Thím rất vui và phấn khởi được hỗ trợ Anh/Chị - Thím sẽ cố gắng học hỏi mỗi ngày để đuọc hoàn thiện hơn  "
+" Thím rất vui và phấn khởi được hỗ trợ Anh/Chị - AC cần thư giản thì nghe bài hất về cty thím nhé https://drive.google.com/file/d/1y1uVX-yd8f5gBz8Rv1Jy6vBTmw_YjRZj/view?usp=sharing "
 
 
 #####
